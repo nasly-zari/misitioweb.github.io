@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Overflow</title>
+    <style type="text/css">
+      body {
+        font-family: Arial, verdana, sans-serif;
+        color: #111111;
+        font-size: 90%;
+        line-height: 1.2em;
+        width: 200px;
+      }
+      h2 {
+        color: #00ddad;
+        border-bottom: 1px solid #00ddad;
+      }
+      p {
+        min-height: 30px;
+        max-height: 60px;
+      }
+      p.one {
+        overflow: hidden;
+      }
+      p.two {
+        overflow: scroll;
+      }
+    </style>
+  </head>
+  <body>
+    <p>
+      Overflow nos indica si un contenido u texto en un cuadro es mayor que que
+      el propio cuadro
+    </p>
+    <p>Se puede desir que puede tener uno de dos valores:</p>
+    <h2>hidden</h2>
+    <p class="one">
+      Con esta propiedad podremos ocultar cualquier contenido el cual no encaje
+      en la caja o cuadro.
+    </p>
+    <h2>scroll</h2>
+    <p class="two">
+      Ejemplo: aqui podremos agregar una barra de desplazamiento para que el
+      usuario pueda desplazarce pra ver el contenido faltante.
+    </p>
+  </body>
+</html>

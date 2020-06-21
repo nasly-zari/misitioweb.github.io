@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>formulario de requisirtos</title>
+    <style type="text/css">
+      body {
+        font-family: arial, verdana, sans-serif;
+      }
+      div {
+        border-bottom: 1px solid #efefef;
+        margin: 10px;
+        padding-bottom: 10px;
+        width: 260px;
+      }
+      .title {
+        float: left;
+        width: 100px;
+        text-align: right;
+        padding-right: 10px;
+      }
+      .radio-buttons label {
+        float: none;
+      }
+      .submit {
+        text-align: right;
+      }
+    </style>
+  </head>
+  <body>
+    <form action="example.php" method="POST">
+      <div>
+        <label for="name" class="title">name:</label>
+        <input type="text" id="name" name="name" />
+      </div>
+      <div>
+        <label for="email" class="title">email:</label>
+        <input type="text" id="email" name="email" />
+      </div>
+      <div class="radio-buttons">
+        <span class="title">gender</span>
+        <input type="radio" name="gender" id="male" value="m" />
+        <label for="male">m</label>
+        <input type="radio" name="gender" id="female" value="f" />
+        <label for="female">f</label>
+      </div>
+      <div class="submit">
+        <input type="submit" value="register" id="submit" />
+      </div>
+    </form>
+    <p>
+      en este &lt;formulario&gt; bemos algo muy similar al &lt;anterior&gt; ya
+      que es muy igual.
+    </p>
+    <p>
+      ya que tanbien se da un requisito donde da una suscripcion para unos datos
+      y un registro de ingreso: su diferencia es que sus espacios estan mas
+      separados por unas lineaciones.
+    </p>
+  </body>
+</html>
