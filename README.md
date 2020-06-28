@@ -4,10 +4,10 @@ ACTIVIDAD º1📓🖋️
 actividad donde aprendi mos a usar HTML basico.
 
 ACTIVIDAD º2📓🖋️
-en esta actividad aprendimos a insertar imagenes y  cuadros .
+en esta actividad aprendimos a insertar imagenes y cuadros .
 
 ACTIVIDAD º3📓🖋️
-aqui aprendimos a  ordenar listas y la insercion de imagenes.
+aqui aprendimos a ordenar listas y la insercion de imagenes.
 
 ACTIVIDAD º4📓🖋️
 en esta activida aprendimos a insertar audios y videos.
@@ -21,4 +21,3 @@ aprendimos nuevas formas y estilos con css y html
 ACTIVIDAD º8 Y º9📓🖋️
 aprendimos como manejar diferentes estilos de css com en la insertacion de imagenes en pantallas pequemas u grandes
 tan en como podremos colocar una imagen como un icono para un contenido en marco o como punto.
-
