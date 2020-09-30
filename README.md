@@ -21,3 +21,7 @@ aprendimos nuevas formas y estilos con css y html
 ACTIVIDAD º8 Y º9📓🖋️
 aprendimos como manejar diferentes estilos de css com en la insertacion de imagenes en pantallas pequemas u grandes
 tan en como podremos colocar una imagen como un icono para un contenido en marco o como punto.
+
+TERCER TRIMESTRE🎓
+en el tercer trimestre hemos aprendido muchos codigos con java y javascrip
+donde se aprendio como va mas en la programacion.
